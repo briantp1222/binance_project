@@ -1,0 +1,8 @@
+
+numpy
+requests
+websocket-client
+pyopencl
+torch
+pytest
+pandas
